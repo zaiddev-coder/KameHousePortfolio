@@ -23,7 +23,7 @@ A stunning, interactive 3D portfolio inspired by the legendary **Kame House** fr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/zaiddev-coder/KameHousePortfolio
+   git clone https://github.com/zaiddev-coder/KameHousePortfolio.git
    ```
 2. **Install dependencies:**
    ```bash
